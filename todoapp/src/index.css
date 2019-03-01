@@ -12,22 +12,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-
-.ninjas {
-  width: 20%;
-}
-
-.ninjas div {
-  width: 100%;
-  text-align: center;
-}
-
-.addNinjas {
-  width: 20%;
-}
-
-.addNinjasForm input {
-  float: right;
-  width: 100px;
-}
-
